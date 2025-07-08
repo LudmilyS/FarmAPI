@@ -75,5 +75,8 @@ cd FarmAPI
 # Instale as dependências
 npm install
 
+# Criar um banco de dados no MySql
+CREATE DATABASE db_farmapi
+
 # Rode a aplicação
 npm run start:dev
