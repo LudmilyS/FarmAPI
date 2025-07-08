@@ -60,7 +60,7 @@ Este sistema permite o cadastro, busca, atualização e exclusão de medicamento
 | GET    | `/produtos/nome/:nome`   | Busca por nome                      |
 | GET    | `/produtos/categoria/:id`| Busca por categoria                 |
 | POST   | `/produtos`              | Cadastra novo produto               |
-| PUT    | `/produtos/:id`          | Atualiza produto                    |
+| PUT    | `/produtos/`             | Atualiza produto                    |
 | DELETE | `/produtos/:id`          | Deleta produto                      |
 
 ---
